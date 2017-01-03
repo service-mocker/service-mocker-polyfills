@@ -1,5 +1,5 @@
 {
-  "name": "service-mockerr-polyfills",
+  "name": "service-mocker-polyfills",
   "version": "1.0.0",
   "description": "All the polyfills you may need to run service-mocker.",
   "main": "index.js",

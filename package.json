@@ -1,0 +1,29 @@
+{
+  "name": "service-mockerr-polyfills",
+  "version": "1.0.0",
+  "description": "All the polyfills you may need to run service-mocker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/service-mocker/service-mockerr-polyfills.git"
+  },
+  "keywords": [
+    "sw",
+    "promise",
+    "fetch",
+    "polyfill"
+  ],
+  "author": "Dolphin Wood <dolphin.w.e@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/service-mocker/service-mockerr-polyfills/issues"
+  },
+  "homepage": "https://github.com/service-mocker/service-mockerr-polyfills#readme",
+  "dependencies": {
+    "promise-polyfill": "^6.0.2",
+    "whatwg-fetch": "^2.0.1"
+  }
+}

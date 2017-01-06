@@ -24,6 +24,7 @@
   "homepage": "https://github.com/service-mocker/service-mocker-polyfills#readme",
   "dependencies": {
     "promise-polyfill": "^6.0.2",
+    "url-polyfill": "git+https://github.com/webcomponents/URL.git",
     "whatwg-fetch": "^2.0.1"
   }
 }

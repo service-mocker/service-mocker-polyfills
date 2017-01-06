@@ -20,5 +20,6 @@ import { createClient } from 'service-mocker/client';
 
 ## Contents
 
-- [`whatwg-fetch`](https://github.com/github/fetch)
-- [`promise-polyfill`](https://github.com/taylorhakes/promise-polyfill)
+- [whatwg-fetch](https://github.com/github/fetch)
+- [promise-polyfill](https://github.com/taylorhakes/promise-polyfill)
+- [url-polyfill](https://github.com/webcomponents/URL)

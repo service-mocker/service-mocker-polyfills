@@ -1,1 +1,1 @@
-require('@publica/url-polyfill');
+require('url-polyfill');
